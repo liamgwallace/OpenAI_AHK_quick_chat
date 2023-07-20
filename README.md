@@ -24,6 +24,7 @@ To change your API key or modify the shortcut key, edit the 'settings.ini' file 
 To create or modify agents, edit the 'agents.ini' file. When adding a new agent:
 - Assign a unique number to 'Name', 'SystemMsg', and 'Temperature' values.
 - Update the 'ListLength' value.
+  (this is a bit of a janky workaround, sorry)
 
 To exit or reload the script after making changes, look for the robot icon in your system tray, usually located in the bottom right corner of your screen.
 
